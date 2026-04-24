@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-i3a1sa.acelerabahia.com/sitemap.xml
